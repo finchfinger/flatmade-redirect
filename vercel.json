@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.mxltiply.com/$1",
+      "destination": "https://flatmade.bigcartel.com/$1",
       "permanent": true
     }
   ]
